@@ -1,11 +1,11 @@
 Membros do grupo:
 
-Caio Fernandes de Amorim
-Jonathan de Souza Mariano da Silva
+Caio Fernandes de Amorim.
+Jonathan de Souza Mariano da Silva.
 
 Problemas ao criar o codigo:
 
-Ao criar esse código, eu provavelmente enfrentaria desafios como compreender e implementar corretamente 
+Ao criar esse código, provavelmente enfrentariamos desafios como compreender e implementar corretamente 
 as funções para manipulação de datas, como a função numeroDoDia para obter o índice do dia da semana. 
 Outro desafio seria entender como a lógica para verificar conflitos de agendamento funciona, especialmente 
 no caso de agendamentos que ultrapassam um dia. Além disso, organizar a estrutura do programa de forma 
